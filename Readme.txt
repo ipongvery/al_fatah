@@ -1,6 +1,40 @@
-Thanks for downloading this template!
+echo "# Aplikasi Pemesanan Nasi Kotak Al-Fatah
 
-Template Name: Bootslander
-Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Repositori ini berisi source code aplikasi pemesanan nasi kotak sederhana menggunakan PHP, JSON, dan CSS.
+
+## Fitur
+
+- Form pemesanan nasi kotak
+- Dropdown pilihan cabang restoran
+- Hitung tagihan awal dan diskon otomatis
+- Simpan dan baca data dari file JSON
+- Tampilan terhubung dengan CSS dan logo
+
+## Struktur Folder
+
+- \`index.php\`: Halaman utama
+- \`data/\`: Menyimpan file JSON untuk data pemesanan
+- \`style/\`: File CSS
+- \`img/\`: Logo restoran
+- \`README.md\`: Dokumentasi proyek
+
+## Cara Menjalankan
+
+1. Clone repository ini:
+   \`\`\`bash
+   git clone https://github.com/driannn4/al_fatah.git
+   \`\`\`
+
+2. Jalankan di server lokal seperti XAMPP (taruh di htdocs)
+
+3. Akses lewat browser:
+   \`http://localhost/al_fatah/index.php\`
+
+## Kontribusi
+
+Silakan fork, pull request, atau buat issue jika ingin berkontribusi.
+
+## Lisensi
+
+[MIT License](LICENSE)
+" > README.md
